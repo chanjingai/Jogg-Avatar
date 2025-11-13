@@ -101,7 +101,7 @@ torchrun --standalone --nproc_per_node=8 scripts/inference.py --config configs/i
 | Models | Download Link | Notes |
 |------|------|------|
 | Wan2.1-T2V-14B | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B) | Base model for 14B |
-| JoggAvatar model 14B(720p) | 🤗 [Huggingface](https://huggingface.co/changjing-zhiliao/zhiliao-audio2talker-dev) | Our LoRA and audio condition weights |
+| JoggAvatar model 14B(720p) | 🤗 [Huggingface](https://huggingface.co/chanjing-ai/Jogg-Avatar) | Our LoRA and audio condition weights |
 | Wav2Vec | 🤗 [Huggingface](https://huggingface.co/facebook/wav2vec2-base-960h) | Audio encoder |
 
 ## 🧩 Community Works
